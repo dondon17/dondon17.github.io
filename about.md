@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <style>
-  img{
+  img:not(.fiximg){
     margin: 0 auto;
     max-width: 50%;
     border-radius: 50%;
