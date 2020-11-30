@@ -27,14 +27,14 @@ version: 1.0.1
 # About/contact
 author:
   name: dondon
-  description: 
-  # gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  description: 웃음코드가 남다른 남자
   contact:
-    linkedin:
-    github:
-    # facebook:  <hide>
-    twitter:
-    weibo:
+    # linkedin:
+    github: 
+    facebook:
+    instagram: 
+    # twitter:
+    # weibo:
     email:
 
 # Navigation (2nd level links supported)
