@@ -5,9 +5,9 @@ category: leetcode
 tags: [leetcode, python]
 ---
 
-# leet code 문제 풀기 > [leetcode]("https://leetcode.com/")  
+# leet code 문제 풀기 > [leetcode](https://leetcode.com/)  
 
-## [leetcode - Longest Common Prefix]("https://leetcode.com/problems/longest-common-prefix/")  
+## [leetcode - Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)  
 
 ```python
 def longestCommonPrefix(self, strs):
