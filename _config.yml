@@ -41,8 +41,8 @@ author:
 nav:
   Home:           
     - '/blog/'
-  TIL:           
-    - '/blog/'
+  Blog:           
+    - '/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
   About:          
