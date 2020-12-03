@@ -40,8 +40,8 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
-  Blog:           
+    - '/blog/'
+  TIL:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
@@ -49,6 +49,8 @@ nav:
     - '/about/'
   Github Project: 
     - 'https://github.com/dondon17'
+  Search:
+    - '/search/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
