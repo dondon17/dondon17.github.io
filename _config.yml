@@ -22,7 +22,7 @@ paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
 
-version: 1.0.1
+version: 1.0.2
 
 # About/contact
 author:
@@ -42,7 +42,7 @@ nav:
   Home:           
     - '/blog/'
   Blog:           
-    - '/'
+    - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
   About:          
